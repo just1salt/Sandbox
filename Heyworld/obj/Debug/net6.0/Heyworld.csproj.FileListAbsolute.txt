@@ -1,0 +1,15 @@
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\bin\Debug\net6.0\Heyworld.exe
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\bin\Debug\net6.0\Heyworld.deps.json
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\bin\Debug\net6.0\Heyworld.runtimeconfig.json
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\bin\Debug\net6.0\Heyworld.dll
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\bin\Debug\net6.0\Heyworld.pdb
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.csproj.AssemblyReference.cache
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.AssemblyInfoInputs.cache
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.AssemblyInfo.cs
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.csproj.CoreCompileInputs.cache
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.dll
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\refint\Heyworld.dll
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.pdb
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\Heyworld.genruntimeconfig.cache
+C:\Users\Browright7479\Desktop\Sandbox\Heyworld\obj\Debug\net6.0\ref\Heyworld.dll
